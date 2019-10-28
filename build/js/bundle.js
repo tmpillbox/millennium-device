@@ -15613,7 +15613,7 @@ module.exports={
   "_args": [
     [
       "elliptic@6.4.1",
-      "/mnt/d/programming/millennium-device"
+      "/home/tyler/dev-build/millennium-device"
     ]
   ],
   "_development": true,
@@ -15639,7 +15639,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npmjs.org/elliptic/-/elliptic-6.4.1.tgz",
   "_spec": "6.4.1",
-  "_where": "/mnt/d/programming/millennium-device",
+  "_where": "/home/tyler/dev-build/millennium-device",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"
@@ -44928,7 +44928,7 @@ module.exports=[
 	{ "pid": "mini4", "order": 6, "image": "images/products/mini4.png", "name": "Mini-Expansion 4: Final Bosses" },
 	{ "pid": "mini5", "order": 7, "image": "images/products/mini5.png", "name": "Mini-Expansion 5: Futures" },
 	{ "pid": "mini6", "order": 8, "image": "images/products/mini6.png", "name": "Mini-Expansion 6: Professionals" },
-	{ "pid": "mini7", "order": 9, "image": "images/products/mini7.png", "name": "Mini-Expansion 7: BoardGameGeek" }
+	{ "pid": "bgg1", "order": 9, "image": "images/products/mini7.png", "name": "BoardGameGeek Mini-Expansion" }
 ]
 
 },{}],360:[function(require,module,exports){
@@ -45054,8 +45054,8 @@ module.exports= [
 	{ "pid": "mini6", "type": "Character", "name": "Protor von Granprie" },
 	{ "pid": "mini6", "type": "Expansion", "name": "Mystic: The Reckoning" },
 	{ "pid": "mini6", "type": "Master",    "name": "The Sports Set: Nerdy Stuff for Normies" },
-	{ "pid": "mini7", "type": "Premium",   "name": "Kartes Des Jahres" },
-	{ "pid": "mini7", "type": "Master",    "name": "Bro'Kin's Best" }
+	{ "pid": "bgg1", "type": "Premium",   "name": "Kartes Des Jahres" },
+	{ "pid": "bgg1", "type": "Master",    "name": "Bro'Kin's Best" }
 ]
 
 },{}],361:[function(require,module,exports){
